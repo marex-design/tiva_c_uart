@@ -1,1 +1,1 @@
-# tiva_c_uart
+Ce tutoriel s'inscrit dans la continuité directe des séances de travaux pratiques (TP) du cours Systèmes et Circuits Électroniques, dispensé par Kuti Angelo, à la Faculté Polytechnique de l'Université de Kinshasa.
